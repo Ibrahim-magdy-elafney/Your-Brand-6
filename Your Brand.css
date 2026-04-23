@@ -207,6 +207,12 @@ select {
 
 }
 
+.Username {
+
+    color: white;
+
+}
+
 .text {
 
     color: white;
@@ -217,7 +223,6 @@ select {
 .email {
 
     color: white;
-
 
 }
 
