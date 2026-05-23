@@ -291,10 +291,20 @@ select {
 
 }
 
-.text {
+.message-box {
+
+    width: 165px;
+    min-height: 80px;
 
     color: white;
+    background: #1a1a1a;
 
+    border: 1px solid #d4af37;
+    border-radius: 5px;
+
+    text-align: center;
+
+    resize: vertical;
 
 }
 
